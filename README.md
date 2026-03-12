@@ -1,5 +1,5 @@
-# Name: Amuthan A
-# REGISTER NUMBER : 212224080004
+# Name: Ganesan M
+# REGISTER NUMBER : 212223080013
 
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
